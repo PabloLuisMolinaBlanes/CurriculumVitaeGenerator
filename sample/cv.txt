@@ -1,0 +1,35 @@
+<< Pablo Luis Molina Blanes
+<< Industrias
+Informática
+Peluquería
+<< Descripcion
+Me gustan los ordenadores
+<< Experiencia
+Prueba
+2025
+2029
+Programador Junior
+Laland
+2030
+2035
+Programador Senior
+Modernidades S.A
+2040
+2045
+Arquitecto de Software
+<< Educacion
+IES Bezmiliana
+2017
+2019
+Bachillerato de Ciencias
+<< Habilidades
+Java Standard Edition
+Arch Linux
+Comunicacion
+Resolucion de problemas de forma creativa
+<< Telefono
+telefonoaqui
+<< Email
+pablo.molina@iescampanillas.com
+<< GitHub
+Aqui GitHub

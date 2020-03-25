@@ -1,0 +1,36 @@
+h1 {
+text-align:center;
+}
+p {
+text-align:center;
+}
+.fondoprueba {
+background-color:gainsboro;
+width:100vw;
+}
+body {
+background-color: gainsboro;
+}
+div {
+width:100vw;
+padding:25px 0px 25px 0px;
+margin: 0 0 0 -8px;
+background-color:aliceblue;
+}
+#firstBack {
+position:absolute;
+top:0;
+height:100px;
+left:0;
+z-index:-2;
+}
+* {
+font-family: Calibri; 
+}
+img {
+position:absolute;
+right: 0;
+top:0;
+width:100px;
+height:100px;
+}
