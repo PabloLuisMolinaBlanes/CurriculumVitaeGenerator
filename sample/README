@@ -13,4 +13,5 @@ You will note there are three sample files. These are:
   in the same section
   - << Educacion: Formatted the same as Experiencia.
   - << Imagen: Only the name of the picture file is to be inputted, along with the filetype. An example is "roca.jpg", not "roca".
-  
+  Sections are named like this "<< Educacion".
+  Paragraphs start after the beginning of a section and end for that section when another is started. It does not support multiple sections in a single line.
