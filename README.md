@@ -8,3 +8,9 @@ Will generate a file named "cv"_ordered.html.
 That is the curriculum vitae.
 
 It has no menu, just execute and enjoy
+
+Used correctly, it should give the following webpage format:
+
+[!CV1](https://github.com/PabloLuisMolinaBlanes/CurriculumVitaeGenerator/blob/master/CV1.png)
+
+[!CV2](https://github.com/PabloLuisMolinaBlanes/CurriculumVitaeGenerator/blob/master/CV2.png)
