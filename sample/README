@@ -1,0 +1,16 @@
+You will note there are three sample files. These are:
+
+ - A sample CSS: Which just styles the project, can be changed.
+ 
+ - A sample txt file: For the program to acquire data from.
+ 
+ - A html file: The generated file by the program.
+ 
+ The most important smaple file is the txt file, which is thought to dynamically generate CVs divided into modifiable sections.
+ There are some sections with special meaning. These are:
+ 
+  - << Experiencia: To be formatted like this Company-Starting Year-Ending Year-Position, each in a different line. Supports various rows
+  in the same section
+  - << Educacion: Formatted the same as Experiencia.
+  - << Imagen: Only the name of the picture file is to be inputted, along with the filetype. An example is "roca.jpg", not "roca".
+  
